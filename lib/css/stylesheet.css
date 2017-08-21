@@ -464,9 +464,8 @@ h1 {
 
 /* ================ NAV BAR ============ */
 
-
-#dropDown {
-    display: inline-block;
+#dropDown{
+  display: inline-block;
 }
 
 #Dummys {
